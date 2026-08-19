@@ -79,6 +79,10 @@ The dataset is based on publicly available vehicle registration data from **Vaha
 
 # 📊 Key Findings
 
+## 🛵 2-Wheeler Maker Performance
+
+![2-Wheeler Maker Performance](maker_2w_performance.png)
+
 ## 🛵 1. 2-Wheeler Manufacturer Performance
 
 ### FY2023 — Top 3
@@ -100,6 +104,9 @@ The dataset is based on publicly available vehicle registration data from **Vaha
 **Key insight:** OLA ELECTRIC remained the clear market leader in 2-wheelers and more than doubled its sales volume from FY2023 to FY2024.
 
 ---
+
+![State EV Penetration](state_penetration.png)
+
 
 # 📍 2. Top States by EV Penetration — FY2024
 
@@ -134,6 +141,9 @@ When comparing FY2022 with FY2024, the analysis found **no state with a decline 
 This indicates that EV penetration increased across all states represented in the dataset during the analysis period.
 
 ---
+
+![4-Wheeler Quarterly Trends](quarterly_4w_trends.png)
+
 
 # 🚘 4. Leading 4-Wheeler EV Manufacturers
 
@@ -194,6 +204,9 @@ Strong growth was observed among major 4-wheeler EV manufacturers between FY2022
 
 ---
 
+![EV Sales Seasonality](ev_sales_seasonality.png)
+
+
 # 📅 8. EV Sales Seasonality
 
 The analysis shows clear variation in EV sales by month.
@@ -233,6 +246,9 @@ The projection assumes that the historical FY2022–FY2024 CAGR continues unchan
 Therefore, these figures should be treated as **scenario analysis rather than precise market forecasts**.
 
 ---
+
+![EV Sales Growth](ev_sales_growth.png)
+
 
 # 💰 10. EV Sales Growth
 
